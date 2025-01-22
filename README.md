@@ -66,9 +66,8 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/2pMLzAXlQj6i3j5b1b/giphy.gif" width="200px">
+  <img src="https://media.giphy.com/media/McE0j7lgBcqmu/giphy.gif" width="200px">
 </p>
 
 <p align="center"><i>Driven to innovate, grow, and contribute to the tech world.</i></p>
