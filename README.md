@@ -48,8 +48,8 @@
 ### 📊 Archana Nair's GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archana-nair&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archana-nair&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Archana7224&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archana7224&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -60,11 +60,13 @@
   <a href="https://www.linkedin.com/in/archana-nair-399bb0285/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/archana-nair">
+  <a href="https://github.com/Archana7224">
     <img src="https://img.shields.io/badge/GitHub-171515.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>Striving for excellence in technology and innovation.</i></p>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00A8E8&center=true&vCenter=true&width=600&lines=Striving+for+excellence+in+technology+and+innovation." />
+  <i>Striving for excellence in technology and innovation.</i></p>
