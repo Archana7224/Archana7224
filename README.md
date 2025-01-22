@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A4C&width=435&lines=CSE'27+%7C+Aspiring+Software+Developer;MERN+Stack+Developer+%7C+Security+Analyst;Passionate+UI%2FUX+Designer+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A4C&width=435&lines=CSE'27+%7C+Aspiring+Software+Developer;MERN+Stack+Developer...;Cybersecurity+Analyst...;Passionate+UI%2FUX+Designer+%7C+Tech+Enthusiast" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/archana-nair-399bb0285/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Archana7224">
+  <a href="https://github.com/archana-nair">
     <img src="https://img.shields.io/badge/GitHub-171515.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
