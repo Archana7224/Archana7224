@@ -68,10 +68,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
-</div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Profile decoration"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=24" width="100%" alt="Footer wave"/>
 </p>
 <p align="center"><i>Driven to innovate, grow, and contribute to the tech world.</i></p>
