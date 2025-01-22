@@ -1,76 +1,73 @@
-# 👋 Hi, I'm Archana Nair! (She/Her)
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+  Hey there! I'm Archana Nair  
+</h1>
 
-🎓 **CSE '27 | Aspiring Software Developer | MERN Stack Developer | Security Analyst**  
-
-I'm a second-year undergraduate student pursuing a **BTech in Computer Science and Engineering (CSE)** with a specialization in **Artificial Intelligence and Machine Learning (AI/ML)** at the **Oriental Institute of Science and Technology (OIST).**  
-
-I am passionate about **software development, cybersecurity, and UI/UX design**, always seeking opportunities to expand my skill set and contribute to innovative projects.
-
----
-
-## 🚀 Skills & Technologies
-
-- **Programming Languages:**  
-  - Python (Basic)  
-  - MySQL (Basic)  
-  - C++ (Learning)  
-  - Java (Learning)  
-
-- **Web Development:**  
-  - MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-
-- **UI/UX Design:**  
-  - Figma  
-  - Canva  
-
-- **Cybersecurity:**  
-  - Security risk identification and mitigation  
-  - Proactive security measures  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A4C&width=435&lines=CSE'27+%7C+Aspiring+Software+Developer;MERN+Stack+Developer+%7C+Security+Analyst;Passionate+UI%2FUX+Designer+%7C+Tech+Enthusiast" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+### 🚀 About Me 
 
-- Advanced C++ and Java  
-- Deepening my knowledge in MERN stack development  
-- Exploring cybersecurity strategies  
-
----
-
-## 📚 Certifications & Achievements
-
-- Completed **"Play it Safe: Manage Security Risks"** Google Certificate  
-- Participated in **Fibohack 1.0**, developing *EventEasy*, a local community event management system  
-- Inspired by industry insights from a recent TEDx event  
+- 🎓 **CSE '27 | Specialization: AI & ML | OIST Bhopal**  
+- 💻 **Passionate about:** Software Development, Cybersecurity & UI/UX Design  
+- 🌱 **Currently learning:** C++, Java, MERN Stack  
+- 🎨 **UI/UX Skills:** Figma & Canva  
+- 🔐 **Cybersecurity Enthusiast:** Security risk management & proactive defense  
+- ⚡ **Fun Fact:** I turn coffee ☕ into code!  
 
 ---
 
-## 💡 Interests
+### 🛠️ Tech Stack
 
-- Full-stack development  
-- Cybersecurity  
-- AI/ML applications  
-- UI/UX design  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,html,css,js,react,nodejs,mongodb,figma,canva" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+### 📚 Certifications & Achievements  
 
-- **LinkedIn:** [Archana Nair](https://www.linkedin.com/in/archana-nair-399bb0285/)  
-- **GitHub:** [@Archana](https://github.com/Archana7224)  
+- ✅ **Google Certification:** *Play it Safe: Manage Security Risks*  
+- 🏆 **Hackathon:** *Fibohack 1.0* - Built *EventEasy* (Community Event Mgmt System)  
+- 🎤 **Inspired by:** TEDx event experiences  
 
+---
 
-<!--
-**Archana7224/Archana7224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Projects  
 
-Here are some ideas to get you started:
+- 🚀 **EventEasy:** Local community event management system   
+- 🛡️ **CyberSecHub:** Exploring web security vulnerabilities  
+- 🌐 **Portfolio:** Showcasing my journey in UI/UX and development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=archana-nair&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archana-nair&theme=radical" width="48%"/>
+</p>
+
+---
+
+### 🌐 Let's Connect!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/archana-nair-399bb0285/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Archana7224">
+    <img src="https://img.shields.io/badge/GitHub-171515.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px">
+</p>
+
+<p align="center">Made with ❤️ by Archana Nair</p>
