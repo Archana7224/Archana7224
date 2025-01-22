@@ -69,6 +69,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Profile decoration"/>
+</p>
 <p align="center"><i>Driven to innovate, grow, and contribute to the tech world.</i></p>
