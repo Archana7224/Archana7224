@@ -3,15 +3,16 @@
   Hey there! I'm Archana Nair  
 </h1>
 
+<h3 align="center">🎓 BTech CSE | AI & ML Specialization | OIST Bhopal (Class of 2027)</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A4C&width=435&lines=CSE'27+%7C+Aspiring+Software+Developer;MERN+Stack+Developer...;Cybersecurity+Analyst...;Passionate+UI%2FUX+Designer+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A4C&center=true&width=500&lines=Aspiring+Software+Developer...;MERN+Stack+Developer...;Cybersecurity+Analyst...;UI%2FUX+Designer...;Tech+Enthusiast..." />
 </p>
 
 ---
 
 ### 🚀 About Me 
 
-- 🎓 **CSE '27 | Specialization: AI & ML | OIST Bhopal**  
 - 💻 **Passionate about:** Software Development, Cybersecurity & UI/UX Design  
 - 🌱 **Currently learning:** C++, Java, MERN Stack  
 - 🎨 **UI/UX Skills:** Figma & Canva  
