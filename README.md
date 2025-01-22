@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 Archana Nair's GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=archana-nair&show_icons=true&theme=radical" width="48%"/>
@@ -67,8 +67,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px">
-</p>
-
-<p align="center">Made with ❤️ by Archana Nair</p>
+<p align="center"><i>Striving for excellence in technology and innovation.</i></p>
