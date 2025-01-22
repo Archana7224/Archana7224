@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00A8E8&center=true&vCenter=true&width=600&lines=Striving+for+excellence+in+technology+and+innovation." />
-  <i>Striving for excellence in technology and innovation.</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00A8E8&center=true&vCenter=true&width=600&lines=Striving+for+excellence+in+technology+and+innovation." />
+</p>
