@@ -47,10 +47,11 @@
 
 ### 📊 Archana Nair's GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archana7224&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archana7224&theme=radical" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Archana7224&show_icons=true&theme=radical" width="400" alt="Archana's GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archana7224&theme=radical" width="400" alt="Archana's GitHub Streak"/>
+</div>
 
 ---
 
@@ -66,8 +67,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/McE0j7lgBcqmu/giphy.gif" width="200px">
-</p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
 <p align="center"><i>Driven to innovate, grow, and contribute to the tech world.</i></p>
