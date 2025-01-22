@@ -68,5 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00A8E8&center=true&vCenter=true&width=600&lines=Striving+for+excellence+in+technology+and+innovation." />
+  <img src="https://media.giphy.com/media/Q6tVvqS0E1D9nt4xnO/giphy.gif" width="200px">
 </p>
+
+<p align="center"><i>Driven to innovate, grow, and contribute to the tech world.</i></p>
