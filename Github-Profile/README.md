@@ -1,8 +1,8 @@
 <!-- Premium Hero Banner -->
 <p align="center">
   <!-- Make sure dark.svg and light.svg are committed in your repo root -->
-  <img src="./dark.svg" alt="Hero Banner Dark" width="100%" />
-  <img src="./light.svg" alt="Hero Banner Light" width="100%" />
+  <img src="dark.svg" alt="Hero Banner Dark" width="100%" />
+<img src="light.svg" alt="Hero Banner Light" width="100%" />
 </p>
 
 <h1 align="center"> 
