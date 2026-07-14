@@ -1,7 +1,8 @@
 <!-- Premium Hero Banner -->
 <p align="center">
-  <img src="dark.svg" alt="Hero Banner Dark" width="100%" />
-  <img src="light.svg" alt="Hero Banner Light" width="100%" />
+  <!-- Make sure dark.svg and light.svg are committed in your repo root -->
+  <img src="./dark.svg" alt="Hero Banner Dark" width="100%" />
+  <img src="./light.svg" alt="Hero Banner Light" width="100%" />
 </p>
 
 <h1 align="center"> 
@@ -66,12 +67,13 @@
 ### 📊 Archana Nair's GitHub Stats  
 
 <div align="center">
+  <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Archana7224&show_icons=true&theme=radical" width="400" alt="Archana's GitHub Stats"/>
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archana7224&theme=radical" width="400" alt="Archana's GitHub Streak"/>
   <br><br>
   <!-- Contributions Snake -->
-  <img src="https://github.com/Archana7224/Archana7224/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Archana7224/Archana7224/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
